@@ -1,2 +1,6 @@
 do you like dogs?
+<<<<<<< HEAD
 this is six!
+abcdefg
+the dog and the cat are my favorites!!!!
+>>>>>>> dev1
