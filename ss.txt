@@ -3,4 +3,4 @@ do you like dogs?
 this is six!
 abcdefg
 the dog and the cat are my favorites!!!!
->>>>>>> dev1
+sorry I'm from dev1!!
